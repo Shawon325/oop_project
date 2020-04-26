@@ -21,7 +21,7 @@ if(isset($_REQUEST['page'])) {
     switch ($_REQUEST['page']) {
         case 'dashboard':
             include 'layouts/app_dashboard.php';
-            break;
+            break;  
         
         default:
             include 'layouts/app_dashboard.php';

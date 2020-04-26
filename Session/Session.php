@@ -34,7 +34,7 @@ class Session
 			header('Location:../Login_panel/login.php');
 		}
 	}
-
+ 
 	public static function checkLogin()
 	{
 		self::init();

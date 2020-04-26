@@ -90,7 +90,6 @@
 
         <div id="right-panel" class="right-panel">
 
-        <!-- Header-->
         <header id="header" class="header">
 
             <div class="header-menu">
